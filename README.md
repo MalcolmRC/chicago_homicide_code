@@ -1,6 +1,6 @@
 # chicago_homicide_code
 
-This repository contains the data and R files for a code sample p repared by Malcolm Robinson Campbell. 
+This repository contains the data and R files for a code sample prepared by Malcolm Robinson Campbell. 
 
 There are two R files:
 
