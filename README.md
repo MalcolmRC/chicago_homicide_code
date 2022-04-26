@@ -1,4 +1,4 @@
-# chicago_homicide_code
+# Predoc Code Samples
 
 This repository contains the data and R files for a code sample prepared by Malcolm Robinson Campbell. 
 
